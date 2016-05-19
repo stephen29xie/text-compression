@@ -1,5 +1,5 @@
 # text-compression
-Lossless Text Compression for ASCII files
+Lossless Text Compression
 
 ## Usage
 Run `make` to build the program. This will create an executable named `exe`. 
